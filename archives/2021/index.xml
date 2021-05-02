@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2021 on Hugo Theme</title>
+    <title>2021 on Never, never, never, never give up.</title>
     <link>https://sanxun0325.github.io/archives/2021/</link>
-    <description>Recent content in 2021 on Hugo Theme</description>
+    <description>Recent content in 2021 on Never, never, never, never give up.</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2021, @sanxun0325</copyright>
     <lastBuildDate>Sun, 02 May 2021 20:15:13 +0800</lastBuildDate>
@@ -22,15 +22,6 @@
 1. Sentinel 随着微服务的流行，服务和服务之间的稳定性变得越来越重要。Sentinel 以流量为切入点，从流量控制、熔断降级、系统负载保护等多个维度保护服务的稳定性。 Sentinel 具有以下特征:
  丰富的应用场景：Sentinel 承接了阿里巴巴近 10 年的双十一大促流量的核心场景，例如秒杀（即突发流量控制在系统容量可以承受的范围）、消息削峰填谷、集群流量控制、实时熔断下游不可用应用等。 完备的实时监控：Sentinel 同时提供实时的监控功能。您可以在控制台中看到接入应用的单台机器秒级数据，甚至 500 台以下规模的集群的汇总运行情况。 广泛的开源生态：Sentinel 提供开箱即用的与其它开源框架/库的整合模块，例如与 Spring Cloud、Dubbo、gRPC 的整合。您只需要引入相应的依赖并进行简单的配置即可快速地接入 Sentinel。 完善的 SPI 扩展点：Sentinel 提供简单易用、完善的 SPI 扩展接口。您可以通过实现扩展接口来快速地定制逻辑。例如定制规则管理、适配动态数据源等。  1.1 Sentinel 的历史  2012年，Sentinel 诞生，主要功能为入口流量控制。 2013-2017年，Sentinel 在阿里巴巴集团内部迅速发展，成为基础技术模块，覆盖了所有的核心场景。Sentinel 也因此积累了大量的流量归整场景以及生产实践。 2018年，Sentinel 开源，并持续演进。 2019年，Sentinel 在多语言扩展的方向上逐步探索，陆续推出 C++ 原生版本、Envoy 集群流量控制支持。 2020年，Sentinel 推出 Go 原生版本，期待在云原生领域继续突破。 https://github.com/alibaba/sentinel-golang  2. Nacos Nacos是一个更易于构建云原生应用的动态服务发现、配置管理和服务管理的平台，Nacos脱胎于阿里巴巴内部的ConfigServer和Diamond，是它们的开源实现。经历过双十一流量峰值和阿里巴巴经济体超大规模容量的考验，沉淀了阿里巴巴软负载团队在这个领域十年的经验，在稳定性和功能性上都有很好的保障。
  Sentinel-Go集成Nacos动态数据源架构 目前 Sentinel 内部的限流、熔断等策略都是基于规则来实现的，提供动态数据源扩展的目的，就是希望将规则数据的加载以及更新操作通过一些配置中心中间件(比如 nacos,etcd,conful,等等)来实现动态更新。</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://sanxun0325.github.io/post/my-first-post/</link>
-      <pubDate>Fri, 23 Apr 2021 16:09:01 +0800</pubDate>
-      
-      <guid>https://sanxun0325.github.io/post/my-first-post/</guid>
-      <description></description>
     </item>
     
   </channel>

@@ -4,11 +4,20 @@
     <link>https://sanxun0325.github.io/archives/2021/</link>
     <description>Recent content in 2021 on Hugo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2008–2018, @JeffProd</copyright>
-    <lastBuildDate>Fri, 23 Apr 2021 16:09:01 +0800</lastBuildDate>
+    <copyright>Copyright © 2008–2021, @sanxun0325</copyright>
+    <lastBuildDate>Sun, 02 May 2021 20:15:13 +0800</lastBuildDate>
     
         <atom:link href="https://sanxun0325.github.io/archives/2021/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sentinel Go_integrated_nacos</title>
+      <link>https://sanxun0325.github.io/post/sentinel-go_integrated_nacos/</link>
+      <pubDate>Sun, 02 May 2021 20:15:13 +0800</pubDate>
+      
+      <guid>https://sanxun0325.github.io/post/sentinel-go_integrated_nacos/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>My First Post</title>
